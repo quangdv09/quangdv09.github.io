@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Quang Vinh Do"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile.jpg"
+  bio              : "Postdoctoral Research Fellow"
+  location         : "Artificial Intelligence Research Center, Pusan National University, South Korea."
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.co.kr/citations?user=cvzifOsAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Quang-Do-2"
   uri              :
   bitbucket        :
   codepen          :
