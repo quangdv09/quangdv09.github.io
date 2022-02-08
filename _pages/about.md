@@ -18,7 +18,7 @@ My research interest is on artificial intelligence (i.e., deep learning and deep
 **B.E. in Electrical and Electronic Engineering**, _Ho Chi Minh City University of Technology_, Vietnam, Sep. 2004 - Apr. 2009.
 
 ## Grants
-** National Research Foundation of Korea** (140,000,000 KRW), June 2021 - May 2023.  
+**National Research Foundation of Korea** (140,000,000 KRW), June 2021 - May 2023.  
 **Principle Investigator**, Pusan National University, South Korea. Title: Blockchain-empowered Federated Learning Framework for Secure Data Sharing in 6G. Number: NRF-2021R1I1A1A01050294
 
 ## Technical Program Committee (TPC) member
