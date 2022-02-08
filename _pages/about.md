@@ -21,8 +21,8 @@ My research interest is on artificial intelligence (i.e., deep learning and deep
 
 ## Grants
 - **National Research Foundation of Korea** (140,000,000 KRW), June 2021 - May 2023.  
-  Principle Investigator. Pusan National University, South Korea. Grant NRF-2021R1I1A1A01050294
-  Title: Blockchain-empowered Federated Learning Framework for Secure Data Sharing in 6G. 
+Principal Investigator, Pusan National University, South Korea. Grant NRF-2021R1I1A1A01050294.  
+Title: Blockchain-empowered Federated Learning Framework for Secure Data Sharing in 6G. 
 
 ## Technical Program Committee (TPC) member
 - IEEE VTC2021-Fall, **Machine Learning and AI for Communications**, 2021.
