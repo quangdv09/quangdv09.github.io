@@ -28,5 +28,5 @@ My research interest is on artificial intelligence (i.e., deep learning and deep
 - IEEE VTC2021-Fall, **Machine Learning and AI for Communications**, 2021.
 
 ## Invited Reviewer
-- IEEE Transactions on Vehicular Technology, IEEE Internet of Things Journal, IEEE Communications Letter, IEEE Wireless Communications Letters, IEEE Access, IEEE Sensors Journal, Journal of Network and Computer Applications.
+- IEEE Transactions on Vehicular Technology, IEEE Internet of Things Journal, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Access, IEEE Sensors Journal, Journal of Network and Computer Applications.
 
