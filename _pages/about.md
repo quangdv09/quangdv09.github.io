@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I received B.E., M.E., and Ph.D. degrees in electrical and computer engineering from HCMC University of Technology, RMIT University, and University of Ulsan, in 2009, 2013, and 2020, respectively. I was a postdoctoral researcher with the Department of Electrical, Electronic, and Computer Engineering, University of Ulsan, South Korea, from Sept. 2020 to Feb. 2021. Since Mar. 2021, I have been as a postpoctoral research fellow at the Artificial Intelligence Research Center, Pusan National University, Busan City, South Korea.  
+I received B.E., M.E., and Ph.D. degrees in electrical and computer engineering from HCMC University of Technology, RMIT University, and University of Ulsan, in 2009, 2013, and 2020, respectively. I was a postdoctoral researcher with the Department of Electrical, Electronic, and Computer Engineering, University of Ulsan, South Korea, from Sept. 2020 to Feb. 2021. Since Mar. 2021, I have been as a postpoctoral research fellow at the Artificial Intelligence Research Center, Pusan National University, Yangsan Campus, South Korea.  
 
 ## Research Interests
 My research interest is on artificial intelligence (i.e., deep learning and deep reinforcement learning techniques) with applications to wireless communication networks. I am currently working on the following categories: energy harvesting,  radio resource management, cognitive radio, mobile edge computing (MEC), unmanned aerial vehicle (UAV), Non-orthogonal multiple access (NOMA), and Reconfigurable Intelligent Surface (RIS).
