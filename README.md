@@ -27,18 +27,9 @@ See more info at https://academicpages.github.io/
   * _talks/
 
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
-
 ## Markdown guide
 
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
+[Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 ## Blockquotes
 
