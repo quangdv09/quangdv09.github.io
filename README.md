@@ -16,15 +16,15 @@ See more info at https://academicpages.github.io/
 * Basic config options: **_config.yml**, which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site’s github repository.
 * Top navigation bar config: **_data/navigation.yml**
 * Single pages: **_pages/**
+* Footer: **_includes/footer.html**
+* Static files (like PDFs): **/files/**
+* Profile image (can set in _config.yml): **images/profile.png**
 * Collections of pages are .md or .html files in:
   * _publications/
   * _portfolio/
   * _posts/
   * _teaching/
   * _talks/
-* Footer: **_includes/footer.html**
-* Static files (like PDFs): **/files/**
-* Profile image (can set in _config.yml): **images/profile.png**
 
 ## Tips and hints
 
