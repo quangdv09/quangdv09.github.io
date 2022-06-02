@@ -22,9 +22,9 @@ See more info at https://academicpages.github.io/
   * _posts/
   * _teaching/
   * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Footer: **_includes/footer.html**
+* Static files (like PDFs): **/files/**
+* Profile image (can set in _config.yml): **images/profile.png**
 
 ## Tips and hints
 
