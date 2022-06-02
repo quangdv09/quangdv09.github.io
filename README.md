@@ -1,4 +1,5 @@
 # Instructions to create your own academic website
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [the academicpages repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
@@ -12,7 +13,7 @@ See more info at https://academicpages.github.io/
 
 ## Locations of key files/directories
 
-* Basic config options: _config.yml
+* Basic config options: _config.yml, which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site’s github repository.
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
