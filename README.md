@@ -27,9 +27,14 @@ See more info at https://academicpages.github.io/
     * _talks/
 
 
-## How to edit your site''s repository
+## How to edit your site's Github repository
 
-You can edit these configuration and markdown files directly in the github.com interface.
+1. You can edit these configuration and markdown files directly in the github.com interface.
+1. You can also install Github Desktop. 
+    - Clone your site's repository to your desktop.
+    - Edit these files using your chosen editor.
+    - Commit the changes using Github Desktop
+1. You can also you Visual Studio Code together with Github Repositories extension, see [here](https://code.visualstudio.com/docs/editor/github)
 
 
 ## Markdown guide
