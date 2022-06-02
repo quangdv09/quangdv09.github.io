@@ -17,7 +17,6 @@ See more info at https://academicpages.github.io/
 * Top navigation bar config: **_data/navigation.yml**
 * Single pages: **_pages/**
 * Collections of pages are .md or .html files in:
-  * Test
   * _publications/
   * _portfolio/
   * _posts/
