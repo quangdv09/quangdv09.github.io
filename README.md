@@ -29,8 +29,9 @@ See more info at https://academicpages.github.io/
 
 ## Markdown guide
 
+* [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 * [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-* [Cheat Sheet](https://www.markdownguide.org/extended-syntax/)
+* [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
 
 ## Definition Lists
 
