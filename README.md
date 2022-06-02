@@ -34,7 +34,7 @@ See more info at https://academicpages.github.io/
     - Clone your site's repository to your desktop.
     - Edit these files using your chosen editor, such as notepad.
     - Commit the changes using Github Desktop
-1. You can also you Visual Studio Code together with Github Repositories extension, see [here](https://code.visualstudio.com/docs/editor/github)
+1. You can also you Visual Studio Code together with Github Repositories extension, see [here](https://code.visualstudio.com/docs/editor/github).
 
 
 ## Markdown guide
