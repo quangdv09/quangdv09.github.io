@@ -20,11 +20,11 @@ See more info at https://academicpages.github.io/
 * Static files (like PDFs): **/files/**
 * Profile image (can set in _config.yml): **images/profile.png**
 * Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
+    * _publications/
+    * _portfolio/
+    * _posts/
+    * _teaching/
+    * _talks/
 
 
 ## Markdown guide
@@ -34,21 +34,18 @@ See more info at https://academicpages.github.io/
 * [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
 
 ## Unordered Lists (Nested)
-* A
-    * B
-    * C
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
+* List item one 
+    * List item one 
+        * List item one
+        * List item two
+        * List item three
+        * List item four
+    * List item two
+    * List item three
+    * List item four
+* List item two
+* List item three
+* List item four
 
 ## Ordered List (Nested)
 
