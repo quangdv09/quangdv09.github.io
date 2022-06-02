@@ -14,8 +14,8 @@ See more info at https://academicpages.github.io/
 ## Locations of key files/directories
 
 * Basic config options: **_config.yml**, which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site’s github repository.
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
+* Top navigation bar config: **_data/navigation.yml**
+* Single pages: **_pages/**
 * Collections of pages are .md or .html files in:
   * _publications/
   * _portfolio/
