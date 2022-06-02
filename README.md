@@ -27,6 +27,11 @@ See more info at https://academicpages.github.io/
     * _talks/
 
 
+## How to edit your site''s repository
+
+You can edit these configuration and markdown files directly in the github.com interface.
+
+
 ## Markdown guide
 
 * [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
