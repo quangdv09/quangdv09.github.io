@@ -14,7 +14,8 @@ See more info at https://academicpages.github.io/
 ## Locations of key files/directories
 
 1. Basic config options: **_config.yml**
-    * Define the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site’s github repository.
+    * Define the content in the sidebars and other site-wide features.
+    * You will need to replace the default variables with ones about yourself and your site’s github repository.
 1. Top navigation bar config: **_data/navigation.yml**
 1. Single pages: **_pages/**
 1. Footer: **_includes/footer.html**
