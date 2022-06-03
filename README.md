@@ -45,4 +45,5 @@ For a full explanation of every setting be sure to read [this guide](https://mmi
 
 ## Author layout
 
-To change icon for the author profile, check free **Font Awesome** at [https://fontawesome.com/v5/search].
+- To change icons for the author sidebar profile, check free icon at [Font Awesome v5](https://fontawesome.com/v5/search).
+- Modify the icon class in **_includes/author-profile.html**.
