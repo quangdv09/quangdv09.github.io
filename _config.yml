@@ -15,21 +15,11 @@ url                      : https://quangdv09.github.io # the base hostname & pro
 baseurl                  : # If you’re not hosting your site as a GitHub Pages Project or in a subfolder (eg: /blog), then don’t mess with this.
 repository               : "quangdv09/quangdv09.github.io"
 teaser                   : # filename of teaser fallback image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : true # true to show breadcrumbs on top of each page for easy navigation; default is false
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -83,8 +73,8 @@ author:
   name             : "Quang Vinh Do"
   avatar           : "images/profile.jpg"
   bio              : "Postdoctoral Research Fellow"
-  location         : "Pusan, South Korea"
-  employer         : "Pusan National University"
+  location         : "Yangsan City, South Korea"
+  employer         : "Pusan National University, Yangsan campus"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.kr/citations?hl=en&user=-cNmXB0AAAAJ"
   email            : "quangdv@pusan.ac.kr"
@@ -191,17 +181,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -218,32 +197,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
