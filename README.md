@@ -43,7 +43,7 @@ See more info at https://academicpages.github.io/
 
 For a full explanation of every setting be sure to read [this guide](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) at Minimal Mistakes page.
 
-## Author layout
+## Author profile
 
-- To change icons for the author sidebar profile, check free icon at [Font Awesome v5](https://fontawesome.com/v5/search).
+- To change icons for the author sidebar profile, check free icons at [Font Awesome v5](https://fontawesome.com/v5/search).
 - Modify the icon class in **_includes/author-profile.html**.
