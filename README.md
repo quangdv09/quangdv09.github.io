@@ -42,3 +42,7 @@ See more info at https://academicpages.github.io/
 ## Configuration
 
 For a full explanation of every setting be sure to read [this guide](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) at Minimal Mistakes page.
+
+## Author layout
+
+To change icon for the author profile, check free **Font Awesome** at [https://fontawesome.com/v5/search].
