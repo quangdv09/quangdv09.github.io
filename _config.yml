@@ -70,8 +70,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Quang Vinh Do"
   avatar           : "images/profile.jpg"
+  name             : "Quang Vinh Do"
   bio              : "Postdoctoral Research Fellow"
   location         : "Yangsan City, South Korea"
   employer         : "Pusan National University, Yangsan campus"
