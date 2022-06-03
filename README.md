@@ -39,3 +39,6 @@ See more info at https://academicpages.github.io/
 * [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 * [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
 
+## Configuration
+
+For a full explanation of every setting be sure to read [this guide](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) at Minimal Mistakes page.
