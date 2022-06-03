@@ -13,13 +13,13 @@ See more info at https://academicpages.github.io/
 
 ## Locations of key files/directories
 
-Basic config options: **_config.yml**
+1. Basic config options: **_config.yml**
 * Define the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site’s github repository.
-Top navigation bar config: **_data/navigation.yml**
-Single pages: **_pages/**
-Footer: **_includes/footer.html**
-Static files (like PDFs): **/files/**
-Profile image (can set in _config.yml): **images/profile.png**
+1. Top navigation bar config: **_data/navigation.yml**
+1. Single pages: **_pages/**
+1. Footer: **_includes/footer.html**
+1. Static files (like PDFs): **/files/**
+1. Profile image (can set in _config.yml): **images/profile.png**
 
 
 ## How to edit your site's Github repository
