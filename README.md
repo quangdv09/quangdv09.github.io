@@ -39,12 +39,3 @@ See more info at https://academicpages.github.io/
 * [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 * [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
 
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
