@@ -34,8 +34,10 @@
 
 The sidebar author profile can be edited by modifying **_config.yml** and **_includes\author-profile.html**.
 
-To change social icons, check free icons at [Font Awesome v5](https://fontawesome.com/v5/search) and [Academicons](https://jpswalsh.github.io/academicons/).
+Check free icons at [Font Awesome v5](https://fontawesome.com/v5/search) and [Academicons](https://jpswalsh.github.io/academicons/).
 
+Tips
+- 
 
 ## How to edit the content of your site
 
