@@ -1,8 +1,10 @@
 ---
 layout: archive
-permalink: /publications/
+permalink: /publications
 title: "Publications"
 author_profile: true
+redirect_from: 
+  - /publications/
 ---
 
 ## Journals
