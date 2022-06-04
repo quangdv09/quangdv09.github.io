@@ -33,14 +33,14 @@
 
 ## Author profile
 
-The sidebar author profile can be edited by modifying **_config.yml** and **_includes\author-profile.html**
+The sidebar author profile can be edited by modifying **_config.yml** and **_includes\author-profile.html**.
 
 To change icons for the author sidebar profile, check free icons at [Font Awesome v5](https://fontawesome.com/v5/search) and [Academicons](https://jpswalsh.github.io/academicons/).
 
 
 ## How to edit the content of your site
 
-### Homepage
+### 1. Homepage
 
 Edit file **_pages\about.md** to change the content of your homepage.
 
