@@ -19,7 +19,7 @@ breadcrumbs              : false # true to show breadcrumbs on top of each page 
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : false # change to true to add link to talkmap on talks page
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -79,32 +79,10 @@ author:
   googlescholar    : "https://scholar.google.co.kr/citations?hl=en&user=-cNmXB0AAAAJ"
   email            : "quangdv@pusan.ac.kr"
   researchgate     : "https://www.researchgate.net/profile/Quang-Do-2"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "quangdv09"
-  google_plus      :
-  keybase          :
-  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "quang-do-2ab67262"
   orcid            : "https://orcid.org/0000-0002-6899-2347"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : #"replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
