@@ -7,7 +7,7 @@
 1. Upload any files (like PDFs, .zip files, etc.) to the **files/** directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-See more info at the [Academicpages repository](https://academicpages.github.io/).
+See more info at the [Academicpages site](https://academicpages.github.io/).
 
 
 ## Locations of key files/directories
@@ -44,8 +44,9 @@ For a full explanation of every setting be sure to read [this guide](https://mmi
 
 ## Author profile
 
-- To change icons for the author sidebar profile, check free icons at [Font Awesome v5](https://fontawesome.com/v5/search).
-- Modify the icon class in **_includes/author-profile.html**.
+- The sidebar author profile can be edited by modifying **_config.yml** and **_includes\author-profile.html**
+- To change icons for the author sidebar profile, check free icons at [Font Awesome v5](https://fontawesome.com/v5/search) and [Academicons](https://jpswalsh.github.io/academicons/).
+
 
 ## How to edit the content of your site
 
