@@ -52,6 +52,7 @@ For a full explanation of every setting be sure to read [this guide](https://mmi
 
 ### Homepage
 
+Edit file **_pages\about.md** to change the content of your homepage.
 
 ### Other pages
 
