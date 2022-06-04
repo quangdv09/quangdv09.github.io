@@ -1,6 +1,4 @@
-# Instructions
-
-## To create your own academic website
+## Instruction to create your own academic website
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/quangdv09/quangdv09.github.io) by clicking the "fork" button in the top right. 
@@ -16,7 +14,7 @@ See more info at the [Academicpages repository](https://academicpages.github.io/
 
 1. Basic config options: **_config.yml**
     * Define the content in the sidebars and other site-wide features.
-    * You will need to replace the default variables with ones about yourself and your site’s github repository.
+    * Replace the default variables with ones about yourself and your site’s github repository.
 1. Top navigation bar config: **_data/navigation.yml**
 1. Single pages: **_pages/**
 1. Footer: **_includes/footer.html**
@@ -48,3 +46,11 @@ For a full explanation of every setting be sure to read [this guide](https://mmi
 
 - To change icons for the author sidebar profile, check free icons at [Font Awesome v5](https://fontawesome.com/v5/search).
 - Modify the icon class in **_includes/author-profile.html**.
+
+## How to edit the content of your site
+
+### Homepage
+
+
+### Other pages
+
