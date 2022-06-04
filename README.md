@@ -39,9 +39,7 @@ To change social icons, check free icons at [Font Awesome v5](https://fontawesom
 
 ## How to edit the content of your site
 
-1. Homepage
-
-    Edit file **_pages\about.md** to change the content of your homepage.
+1. Edit file **_pages\about.md** to change the content of your homepage.
 
 1. Other pages
 
