@@ -36,8 +36,8 @@ The sidebar author profile can be edited by modifying **_config.yml** and **_inc
 
 Check free icons at [Font Awesome v5](https://fontawesome.com/v5/search) and [Academicons](https://jpswalsh.github.io/academicons/).
 
-Tips
-- 
+Tips for styling and coloring icons (https://jpswalsh.github.io/academicons/usage)
+
 
 ## How to edit the content of your site
 
