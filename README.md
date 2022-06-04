@@ -7,6 +7,7 @@
 1. Upload any files (like PDFs, .zip files, etc.) to the **files/** directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
+
 ## Locations of key files/directories
 
 1. Basic config options: **_config.yml**
@@ -29,8 +30,6 @@
 1. You can also you **Visual Studio Code** together with the **Github Repositories extension**, see [here](https://code.visualstudio.com/docs/editor/github).
 
 
-
-
 ## Author profile
 
 The sidebar author profile can be edited by modifying **_config.yml** and **_includes\author-profile.html**.
@@ -45,7 +44,6 @@ To change icons for the author sidebar profile, check free icons at [Font Awesom
     Edit file **_pages\about.md** to change the content of your homepage.
 
 1. Other pages
-
 
 
 ## Other guides
