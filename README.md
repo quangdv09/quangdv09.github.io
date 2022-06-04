@@ -7,9 +7,6 @@
 1. Upload any files (like PDFs, .zip files, etc.) to the **files/** directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-See more info at the [Academicpages site](https://academicpages.github.io/).
-
-
 ## Locations of key files/directories
 
 1. Basic config options: **_config.yml**
@@ -32,15 +29,7 @@ See more info at the [Academicpages site](https://academicpages.github.io/).
 1. You can also you **Visual Studio Code** together with the **Github Repositories extension**, see [here](https://code.visualstudio.com/docs/editor/github).
 
 
-## Markdown guide
 
-* [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-* [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-* [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
-
-## Configuration
-
-For a full explanation of every setting be sure to read [this guide](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) at Minimal Mistakes page.
 
 ## Author profile
 
@@ -55,4 +44,12 @@ For a full explanation of every setting be sure to read [this guide](https://mmi
 Edit file **_pages\about.md** to change the content of your homepage.
 
 ### Other pages
+
+
+
+## Other guides
+
+- Markdown Guide (https://www.markdownguide.org/)
+- See more information at Academicpages site (https://academicpages.github.io/).
+- For a full explanation of every setting be sure to read [this guide](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) at Minimal Mistakes page.
 
