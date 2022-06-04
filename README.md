@@ -42,8 +42,7 @@ To change icons for the author sidebar profile, check free icons at [Font Awesom
 
 1. Homepage
 
-Edit file **_pages\about.md** to change the content of your homepage.
-
+    Edit file **_pages\about.md** to change the content of your homepage.
 
 1. Other pages
 
