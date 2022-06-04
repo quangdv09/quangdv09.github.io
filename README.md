@@ -41,7 +41,9 @@
 
 1. Edit file **_pages\about.md** to change the content of your homepage.
 
-1. Other pages
+1. Add a new page 
+    - Create a new .md file in **_pages** folder.
+    - Modify the navigation bar on the top of your site by editing **_data\navigation.yml**.
 
 
 ## Other guides
