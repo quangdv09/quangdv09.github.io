@@ -40,11 +40,12 @@ To change icons for the author sidebar profile, check free icons at [Font Awesom
 
 ## How to edit the content of your site
 
-### 1. Homepage
+1. Homepage
 
 Edit file **_pages\about.md** to change the content of your homepage.
 
-### 1. Other pages
+
+1. Other pages
 
 
 
