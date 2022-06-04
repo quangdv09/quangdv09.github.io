@@ -32,12 +32,10 @@
 
 ## Author profile
 
-The sidebar author profile can be edited by modifying **_config.yml** and **_includes\author-profile.html**.
-
-Check free icons at [Font Awesome v5](https://fontawesome.com/v5/search) and [Academicons](https://jpswalsh.github.io/academicons/).
-
-Tips for styling and coloring icons (https://jpswalsh.github.io/academicons/usage)
-
+- The sidebar author profile can be edited by modifying **_config.yml** and **_includes\author-profile.html**.
+- Check free icons at [Font Awesome v5](https://fontawesome.com/v5/search) and [Academicons](https://jpswalsh.github.io/academicons/).
+- Tips for styling and coloring icons (https://jpswalsh.github.io/academicons/usage)
+- You can use Color picker tool in Paint application of windows to look for the color code of icons.
 
 ## How to edit the content of your site
 
