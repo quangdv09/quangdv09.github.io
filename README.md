@@ -42,8 +42,8 @@
 1. Edit file **_pages\home.md** to change the content of your homepage.
 1. Add a new page 
     - Create a new .md file in **_pages** folder.
-    - Modify the navigation bar on the top of your site by editing **_data\navigation.yml**.
-
+    - Remember to set its `permalink` and `title`. For an example, please see **_pages\publications.md**.
+    - Customize site navigational menu by adding titles and urls under the `main` key in **_data\navigation.yml**.
 
 ## Other guides
 
