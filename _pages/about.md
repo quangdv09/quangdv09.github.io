@@ -1,12 +1,9 @@
 ---
 layout: archive
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Home"
+# excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I received B.E., M.E., and Ph.D. degrees in electrical and computer engineering from HCMC University of Technology, RMIT University, and University of Ulsan, in 2009, 2013, and 2020, respectively. I was a postdoctoral researcher with the Department of Electrical, Electronic, and Computer Engineering, University of Ulsan, South Korea, from Sept. 2020 to Feb. 2021. Since Mar. 2021, I have been as a postpoctoral research fellow at the Artificial Intelligence Research Center, Pusan National University, Yangsan Campus, South Korea.  
