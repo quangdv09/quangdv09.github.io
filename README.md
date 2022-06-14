@@ -30,7 +30,7 @@
 1. You can also you **Visual Studio Code** together with the **Github Repositories extension**, see [here](https://code.visualstudio.com/docs/editor/github).
 
 
-## How to make changes to author profile on the sidebar
+## How to make changes to the sidebar author profile
 
 - The sidebar author profile can be edited by modifying **_config.yml** and **_includes\author-profile.html**.
 - Check free icons at [Font Awesome v5](https://fontawesome.com/v5/search) and [Academicons](https://jpswalsh.github.io/academicons/).
