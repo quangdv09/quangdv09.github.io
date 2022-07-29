@@ -28,5 +28,5 @@ My research interest is on artificial intelligence (i.e., deep learning and deep
 
 - **Technical Program Committee (TPC) member** of IEEE VTC2021-Fall, _Machine Learning and AI for Communications_, 2021.
 - **Review Editor** for for _Wireless Communications_ section in _Frontiers in Communications and Network_.
-- **Invited Reviewer**: IEEE Transactions on Vehicular Technology, IEEE Internet of Things Journal, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Access, IEEE Sensors Journal, Journal of Network and Computer Applications.
+- **Invited Reviewer** for IEEE Transactions on Vehicular Technology, IEEE Internet of Things Journal, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Access, IEEE Sensors Journal, Journal of Network and Computer Applications.
 
