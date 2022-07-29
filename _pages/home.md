@@ -24,9 +24,10 @@ My research interest is on artificial intelligence (i.e., deep learning and deep
 * **Principal Investigator**, Pusan National University, South Korea. Grant NRF-2021R1I1A1A01050294.  
 * **Title**: Blockchain-empowered Federated Learning Framework for Secure Data Sharing in 6G. 
 
-## Technical Program Committee (TPC) member
+## Professional Activities
 
-- IEEE VTC2021-Fall, **Machine Learning and AI for Communications**, 2021.
+- Technical Program Committee (TPC) member of IEEE VTC2021-Fall, **Machine Learning and AI for Communications**, 2021.
+- Review Editor for for **Wireless Communications** section in **Frontiers in Communications and Network**.
 
 
 ## Invited Reviewer
