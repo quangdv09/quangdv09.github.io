@@ -20,9 +20,9 @@ My research interest is on artificial intelligence (i.e., deep learning and deep
 
 ## Research Grants
 
-**National Research Foundation of Korea** (140,000,000 KRW), June 2021 - May 2023.  
-* **Principal Investigator**, Pusan National University, South Korea. Grant NRF-2021R1I1A1A01050294.  
-* **Title**: Blockchain-empowered Federated Learning Framework for Secure Data Sharing in 6G. 
+**National Research Foundation of Korea** (140,000,000 KRW, **Principal Investigator**), June 2021 - May 2023, Pusan National University, South Korea. Grant NRF-2021R1I1A1A01050294. Title: Blockchain-empowered Federated Learning Framework for Secure Data Sharing in 6G.
+
+**National Research Foundation of Korea** (US$100,000 per year, **Key participant**), Mar. 2017 – Feb. 2021, University of Ulsan, South Korea. Grant NRF-2021R1A2B5B01001721. Title: Distributed Spectrum Sensing and Resource Allocation for Cognitive-Radio Internet of Things (C-IoT) based on Edge Computing and Hierarchical SDN.
 
 ## Professional Activities
 
