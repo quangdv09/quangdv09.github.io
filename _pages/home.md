@@ -14,7 +14,7 @@ My research interest is on artificial intelligence (i.e., deep learning and deep
 
 ## Education
 
-- **Ph.D. in Electrical Engineering**, _University of Ulsan_, South Korea, Mar. 2017 - Aug. 2020, "Artificial Intelligence-based Radio Resource Management for Wireless Networks".
+- **Ph.D. in Electrical Engineering**, _University of Ulsan_, South Korea, Mar. 2017 - Aug. 2020, Dissertation: "Artificial Intelligence-based Radio Resource Management for Wireless Networks".
 - **M.E. in Electronic and Computer Engineering**, _RMIT University_, Australia, Apr. 2011 - Nov. 2013.
 - **B.E. in Electrical and Electronic Engineering**, _Ho Chi Minh City University of Technology_, Vietnam, Sep. 2004 - Apr. 2009.
 
