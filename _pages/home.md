@@ -24,6 +24,15 @@ My research interest is on artificial intelligence (i.e., deep learning and deep
 
 **National Research Foundation of Korea** ($100,000 per year, **Key participant**), Mar. 2017 – Feb. 2021, University of Ulsan, South Korea. Grant NRF-2021R1A2B5B01001721. Title: Distributed Spectrum Sensing and Resource Allocation for Cognitive-Radio Internet of Things (C-IoT) based on Edge Computing and Hierarchical SDN.
 
+## Academic Positions
+
+**Postdoctoral Research Fellow**, Pusan Nation University, South Korea, Mar. 2021 - Present.
+**Postdoctoral Research Fellow**, University of Ulsan, South Korea, Sep. 2020 - Feb. 2021.
+**Graduate researcher**, University of Ulsan, South Korea, Mar. 2017 - Aug. 2020.
+**Lecture**, Ton Duc Thang University, Vietnam, Mar. 2014 - Feb. 2017.
+
+
+
 ## Professional Activities
 
 - **Technical Program Committee (TPC) member** of IEEE VTC2021-Fall, _Machine Learning and AI for Communications_, 2021.
