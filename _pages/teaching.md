@@ -9,9 +9,11 @@ author_profile: true
 
 - Course: _Artificial Intelligence for 6G Networks_
 
+
 ## University of Ulsan, Mar. 2017 - Feb. 2021
 
 - Course: _Special Topics on Wireless Sensor Networks_
+
 
 ## Ton Duc Thang University, Mar. 2014 - Feb. 2017
 
