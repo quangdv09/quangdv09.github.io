@@ -27,8 +27,11 @@ My research interest is on artificial intelligence (i.e., deep learning and deep
 ## Academic Positions
 
 **Postdoctoral Research Fellow**, Pusan Nation University, South Korea, Mar. 2021 - Present.
+
 **Postdoctoral Research Fellow**, University of Ulsan, South Korea, Sep. 2020 - Feb. 2021.
+
 **Graduate researcher**, University of Ulsan, South Korea, Mar. 2017 - Aug. 2020.
+
 **Lecture**, Ton Duc Thang University, Vietnam, Mar. 2014 - Feb. 2017.
 
 
