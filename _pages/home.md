@@ -6,12 +6,12 @@ title: "Home"
 author_profile: true
 ---
 
-I received my Bachelor of Engineering degree in Electrical and Electronics Engineering from Ho Chi Minh City University of Technology, Vietnam in Apr. 2009. I got my Master of Engineering degree in Electronic and Computer Engineering from RMIT University, Australia in Nov. 2013. I finished my Ph.D. degree in Electrical Engineering from the University of Ulsan, South Korea in Aug. 2020. I was a postdoctoral researcher with the Department of Electrical, Electronic, and Computer Engineering, University of Ulsan, South Korea, from Sept. 2020 to Feb. 2021. Starting from Mar. 2021, I work as a postpoctoral research fellow at the Artificial Intelligence Research Center, Pusan National University, South Korea. 
+I received my Bachelor of Electrical and Electronics Engineering degree from Ho Chi Minh City University of Technology, Vietnam, in Apr. 2009. I got my Master of Engineering degree in Electronic and Computer Engineering from RMIT University, Australia, in Nov. 2013. I finished my Ph.D. in Electrical Engineering from the University of Ulsan, South Korea, in Aug. 2020. I was a postdoctoral researcher with the Department of Electrical, Electronic, and Computer Engineering, University of Ulsan, South Korea, from Sept. 2020 to Feb. 2021. Since Mar. 2021, I have worked as a postdoctoral research fellow at the Artificial Intelligence Research Center, Pusan National University, South Korea.
 
 
 ## Research Interests
 
-My research interest is on artificial intelligence (i.e., deep learning and deep reinforcement learning techniques) with applications to wireless communication networks. I am currently working on the following categories: energy harvesting,  radio resource management, cognitive radio, mobile edge computing (MEC), unmanned aerial vehicle (UAV), Non-orthogonal multiple access (NOMA), and Reconfigurable Intelligent Surface (RIS).
+My research interest focuses on applying artificial intelligence techniques (e.g., deep learning, deep reinforcement learning, game theory) to wireless communication networks. I am currently working on the following categories: energy harvesting,  radio resource management, cognitive radio network (CRN), mobile edge computing (MEC), unmanned aerial vehicle (UAV), Non-orthogonal multiple access (NOMA), and reconfigurable intelligent surface (RIS).
 
 
 ## Education
