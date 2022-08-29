@@ -6,7 +6,7 @@ title: "Home"
 author_profile: true
 ---
 
-I received my Bachelor of Electrical and Electronics Engineering degree from Ho Chi Minh City University of Technology, Vietnam, in Apr. 2009. I got my Master of Engineering degree in Electronic and Computer Engineering from RMIT University, Australia, in Nov. 2013. I finished my Ph.D. in Electrical Engineering from the University of Ulsan, South Korea, in Aug. 2020. I was a postdoctoral researcher with the Department of Electrical, Electronic, and Computer Engineering, University of Ulsan, South Korea, from Sept. 2020 to Feb. 2021. Since Mar. 2021, I have worked as a postdoctoral research fellow at the Artificial Intelligence Research Center, Pusan National University, South Korea.
+I received my Bachelor's degree in Electrical and Electronics Engineering from Ho Chi Minh City University of Technology, Vietnam, in Apr. 2009. I got my Master's degree in Electronic and Computer Engineering from RMIT University, Australia, in Nov. 2013. I completed my Ph.D. in Electrical Engineering from the University of Ulsan, South Korea, in Aug. 2020. I was a postdoctoral researcher with the Department of Electrical, Electronic, and Computer Engineering, University of Ulsan, South Korea, from Sept. 2020 to Feb. 2021. Since Mar. 2021, I have worked as a postdoctoral research fellow at the Artificial Intelligence Research Center, Pusan National University, South Korea.
 
 
 ## Research Interests
