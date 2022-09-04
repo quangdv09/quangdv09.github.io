@@ -11,7 +11,7 @@ I received my Bachelor's degree in Electrical and Electronics Engineering from H
 
 ## Research Interests
 
-My research interest focuses on applying artificial intelligence techniques (e.g., deep learning, deep reinforcement learning, game theory) to wireless communication networks. I am currently working on the following categories: energy harvesting,  radio resource management, cognitive radio network (CRN), mobile edge computing (MEC), unmanned aerial vehicle (UAV), non-orthogonal multiple access (NOMA), and reconfigurable intelligent surface (RIS).
+My research interest focuses on developing and applying artificial intelligence techniques (e.g., deep learning, deep reinforcement learning, game theory) to wireless communication networks. I am currently working on the following categories: energy harvesting,  radio resource management, cognitive radio network (CRN), mobile edge computing (MEC), unmanned aerial vehicle (UAV), non-orthogonal multiple access (NOMA), and reconfigurable intelligent surface (RIS).
 
 
 ## Education
