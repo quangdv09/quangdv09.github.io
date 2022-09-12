@@ -45,7 +45,7 @@
     - Remember to set its `permalink` and `title`. For an example please see **_pages\publications.md**.
     - Customize site navigational menu by adding titles and urls under the `main` key in **_data\navigation.yml**.
 1. To hide the title of any page
-    - Open **_includes/archive-single.html**
+    - Open **_includes/archive-single-cv.html**
     - Remove or Comment the following lines
 
         ```
