@@ -58,4 +58,5 @@
 - Markdown Guide (https://www.markdownguide.org/)
 - See more information at Academicpages site (https://academicpages.github.io/).
 - For a full explanation of every setting be sure to read [this guide](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) at Minimal Mistakes page.
+- Edit basic page style in **_sass/_base.scss**
 
