@@ -11,6 +11,7 @@ author_profile: true
 - **Review Editor** for Wireless Communications section in Frontiers in Communications and Network.
 - **Invited Reviewer** for IEEE Transactions on Vehicular Technology, IEEE Internet of Things Journal, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Access, IEEE Sensors Journal, Journal of Network and Computer Applications.
 
+
 ## Teaching
 
 - 2021 - Present: Artificial Intelligence for 6G Networks (postgraduate course), Pusan National University, South Korea.
