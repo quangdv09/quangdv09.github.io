@@ -2,8 +2,10 @@
 main:
   - title: "Home"
     url: /
+
   - title: "Publications"
     url: /publications
+    
   - title: "Academic Activities"
     url: /academic-activities
 
