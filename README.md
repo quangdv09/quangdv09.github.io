@@ -44,17 +44,7 @@
     - Create a new .md file in **_pages** folder.
     - Remember to set its `permalink` and `title`. For an example please see **_pages\publications.md**.
     - Customize site navigational menu by adding titles and urls under the `main` key in **_data\navigation.yml**.
-1. To hide the title of any page
-    - Open **_includes/archive-single-cv.html**
-    - Remove or Comment the following lines
 
-        ```
-        {% if post.id %}  
-        {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}  
-        {% else %}  
-        {% assign title = post.title %}  
-        {% endif %}
-        ```
 
 ## Other guides
 

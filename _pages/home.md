@@ -11,7 +11,6 @@ I received my Bachelor’s degree in Electrical Engineering from Ho Chi Minh Cit
 My research interests are developing and applying artificial intelligence techniques to wireless communication networks. I am currently working on the following categories: deep learning, deep reinforcement learning, energy harvesting, radio resource management, cognitive radio network, mobile edge computing, unmanned aerial vehicle, non-orthogonal multiple access, and reconfigurable intelligent surface.
 
 
-
 ## Education
 
 - **Ph.D. in Electrical Engineering**, _University of Ulsan_, South Korea, Mar. 2017 - Aug. 2020, Dissertation: "Artificial Intelligence-based Radio Resource Management for Wireless Networks".
