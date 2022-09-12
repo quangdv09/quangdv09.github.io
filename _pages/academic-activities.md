@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /academic-activities
-# title: "Academic Activities"
+title: "Academic Activities"
 author_profile: true
 ---
 
