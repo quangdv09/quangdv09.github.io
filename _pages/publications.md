@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /publications
-title: 
 #title: "Publications"
 author_profile: true
 redirect_from: 
