@@ -44,7 +44,14 @@
     - Create a new .md file in **_pages** folder.
     - Remember to set its `permalink` and `title`. For an example please see **_pages\publications.md**.
     - Customize site navigational menu by adding titles and urls under the `main` key in **_data\navigation.yml**.
-
+1. To hide the title of any page, edit the layout of the page as follows:
+    - Open **_layouts/archive.html**, remove or comment the following lines
+    
+    ```
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    ```
 
 ## Other guides
 
