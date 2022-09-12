@@ -49,9 +49,13 @@
     - Remove or Comment the following lines
 
         `{% if post.id %}`
+
         `{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}`
+
         `{% else %}`
+
         `{% assign title = post.title %}`
+        
         `{% endif %}`
 
 ## Other guides
