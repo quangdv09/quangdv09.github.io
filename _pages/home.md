@@ -1,12 +1,12 @@
 ---
 layout: archive
 permalink: /
-title: "Biography"
+# title: "Biography"
 # excerpt: "About me"
 author_profile: true
 ---
 
-## Brief Bio.
+## Biography
 
 I received my Bachelor’s degree in Electrical Engineering from Ho Chi Minh City University of Technology, Vietnam in 2009, the Master’s degree in Electronic and Computer Engineering from RMIT University, Australia in 2013, and the Ph.D. in Electrical Engineering from the University of Ulsan, South Korea in 2020. I was a postdoctoral researcher with the University of Ulsan, South Korea from Sept. 2020 to Feb. 2021. Since Mar. 2021, I have been a postdoctoral research fellow at the Artificial Intelligence Research Center, Pusan National University, South Korea.
 
