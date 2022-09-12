@@ -47,6 +47,7 @@
 1. To hide the title of any page
     - Open **_includes/archive-single.html**
     - Remove or Comment the following lines
+    
     > {% if post.id %}
     > {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
     > {% else %}
