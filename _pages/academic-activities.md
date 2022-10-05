@@ -7,7 +7,7 @@ author_profile: true
 
 ## Professional Activities
 
-- **Technical Program Committee (TPC) member** of IEEE VTC2021-Fall**, Machine Learning and AI for Communications, 2021.
+- **Technical Program Committee (TPC) member** of IEEE VTC2021-Fall, Machine Learning and AI for Communications, 2021.
 - **Review Editor** for Wireless Communications section in Frontiers in Communications and Network.
 - **Invited Reviewer** for IEEE Transactions on Vehicular Technology, IEEE Internet of Things Journal, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Access, IEEE Sensors Journal, Journal of Network and Computer Applications.
 
