@@ -8,7 +8,7 @@ author_profile: true
 
 ## Brief Biography
 
-Dr. Quang received his Bachelor’s degree in Electrical Engineering from Ho Chi Minh City University of Technology, Vietnam, in 2009, his Master’s degree in Electronic and Computer Engineering from RMIT University, Australia, in 2013, and his Ph.D. in Electrical Engineering from the University of Ulsan, South Korea in 2020. I was a postdoctoral researcher at the University of Ulsan, South Korea, from Sept. 2020 to Feb. 2021. Since Mar. 2021, I have been a postdoctoral research fellow at the Artificial Intelligence Research Center, Pusan National University, South Korea.
+Dr. Quang received his Bachelor’s degree in Electrical Engineering from Ho Chi Minh City University of Technology, Vietnam, in 2009, his Master’s degree in Electronic and Computer Engineering from RMIT University, Australia, in 2013, and his Ph.D. in Electrical Engineering from the University of Ulsan, South Korea in 2020. He was a postdoctoral researcher at the University of Ulsan, South Korea, from Sept. 2020 to Feb. 2021. Since Mar. 2021, he has been a postdoctoral research fellow at the Artificial Intelligence Research Center, Pusan National University, South Korea.
 
 His research interests are developing and applying artificial intelligence techniques to wireless communication networks. He is currently working on the following categories: deep learning, deep reinforcement learning, energy harvesting, radio resource management, cognitive radio network, mobile edge computing, unmanned aerial vehicle, non-orthogonal multiple access, and reconfigurable intelligent surface.
 
