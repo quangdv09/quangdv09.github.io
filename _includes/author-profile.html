@@ -30,10 +30,6 @@
         <li><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       
-      {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
-      {% endif %}
-      
        {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}" target="_blank"><i class="ai ai-researchgate ai-fw" style="color:#00D6BD" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
