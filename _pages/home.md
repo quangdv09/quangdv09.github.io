@@ -21,8 +21,8 @@ His research interests are developing and applying artificial intelligence techn
 
 
 ## Academic Positions
-
-- **Postdoctoral Research Fellow**, Pusan Nation University, South Korea, Mar. 2021 - Present.
+- **Lecturer**, Ton Duc Thang University, Vietnam, Sep. 2023 - Present.
+- **Postdoctoral Research Fellow**, Pusan Nation University, South Korea, Mar. 2021 - Aug. 2023.
 - **Postdoctoral Research Fellow**, University of Ulsan, South Korea, Sep. 2020 - Feb. 2021.
 - **Graduate Researcher**, University of Ulsan, South Korea, Mar. 2017 - Aug. 2020.
 - **Lecturer**, Ton Duc Thang University, Vietnam, Mar. 2014 - Feb. 2017.
