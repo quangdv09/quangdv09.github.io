@@ -14,9 +14,10 @@ author_profile: true
 
 ## Teaching
 
-- 2021 - Present: Artificial Intelligence for 6G Networks (postgraduate course), Pusan National University, South Korea.
+- 2023 - Present: Ton Duc Thanh University, Ho Chi Minh City, Vietnam
+- 2021 - 2023: Artificial Intelligence for 6G Networks (postgraduate course), Pusan National University, South Korea.
 - 2017 - 2021: Special Topics on Wireless Sensor Networks (postgraduate course), University of Ulsan, South Korea.
-- 2014 - 2017: Ton Duc Thang University, Vietnam
+- 2014 - 2017: Ton Duc Thang University, Ho Chi Minh City, Vietnam
     - Digital System Design, MOS VLSI Design, Signals and Systems, Electronic Circuit Design, Information Theory (undergraduate course)
     - Digital System Design Lab, Microcontroller Lab, FPGA Lab, Electronic Circuits Lab (undergraduate course)
 
