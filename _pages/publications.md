@@ -25,6 +25,6 @@ redirect_from:
 
 ## Conferences
 
-1. S. -G. Jeong, **Q. V. Do**, H. -J. Hwang, M. Hasegawa, H. Sekiya and W. -J. Hwang, "UWB NLOS/LOS Classification Using Hybrid Quantum Convolutional Neural Networks," 2023 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), Busan, Korea, Republic of, 2023, pp. 1-2.
-1. M. -D. Nguyen, H. -S. Luong, Tung-Nguyen, Q. -V. Pham, **Q. V. Do** and W. -J. Hwang, "FFD: A Full-Stack Federated Distillation method for Heterogeneous Massive IoT Networks," 2022 International Conference on Advanced Technologies for Communications (ATC), Ha Noi, Vietnam, 2022, pp. 326-331.
-1. **Q. V. Do** and Insoo Koo, "Dynamic Bandwidth Allocation Scheme for Wireless Networks with Energy Harvesting Using Actor-Critic Deep Reinforcement Learning," 2019 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), Okinawa, Japan, 2019, pp. 138-142.
+1. S. -G. Jeong, **Q. V. Do**, H. -J. Hwang, M. Hasegawa, H. Sekiya and W. -J. Hwang, "UWB NLOS/LOS Classification Using Hybrid Quantum Convolutional Neural Networks," _2023 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)_, Busan, Korea, Republic of, 2023, pp. 1-2.
+1. M. -D. Nguyen, H. -S. Luong, Tung-Nguyen, Q. -V. Pham, **Q. V. Do** and W. -J. Hwang, "FFD: A Full-Stack Federated Distillation method for Heterogeneous Massive IoT Networks," _2022 International Conference on Advanced Technologies for Communications (ATC)_, Ha Noi, Vietnam, 2022, pp. 326-331.
+1. **Q. V. Do** and Insoo Koo, "Dynamic Bandwidth Allocation Scheme for Wireless Networks with Energy Harvesting Using Actor-Critic Deep Reinforcement Learning," _2019 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)_, Okinawa, Japan, 2019, pp. 138-142.
