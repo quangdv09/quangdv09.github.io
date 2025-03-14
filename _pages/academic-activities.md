@@ -9,12 +9,12 @@ author_profile: true
 
 - **Technical Program Committee (TPC) member** of IEEE VTC2021-Fall, Machine Learning and AI for Communications, 2021.
 - **Review Editor** for Wireless Communications section in Frontiers in Communications and Network.
-- **Invited Reviewer** for IEEE Transactions on Vehicular Technology, IEEE Internet of Things Journal, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Access, IEEE Sensors Journal, Journal of Network and Computer Applications.
+- **Invited Reviewer** for IEEE Transactions on Vehicular Technology, IEEE Internet of Things Journal, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Access, IEEE Sensors Journal, Journal of Network and Computer Applications, IEEE Transactions on Mobile Computing.
 
 
 ## Teaching
 
-- 2023 - Present: Ton Duc Thanh University, Ho Chi Minh City, Vietnam
+- 2023 - Present: Ton Duc Thang University, Ho Chi Minh City, Vietnam
 - 2021 - 2023: Artificial Intelligence for 6G Networks (postgraduate course), Pusan National University, South Korea.
 - 2017 - 2021: Special Topics on Wireless Sensor Networks (postgraduate course), University of Ulsan, South Korea.
 - 2014 - 2017: Ton Duc Thang University, Ho Chi Minh City, Vietnam
